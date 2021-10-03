@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ciudad de México",
+        "image": "img/mexico.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Buenos Aires",
+        "image": "img/buenos.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Londres",
+        "image": "img/london.jpg"
+    },
+    {
+        "id": 4,
+        "name": "New York",
+        "image": "img/york.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Munich",
+        "image": "img/munich.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Paris",
+        "image": "img/paris.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Milan",
+        "image": "img/milan.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Barcelona",
+        "image": "img/barcelona.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tokio",
+        "image": "img/tokio.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Berlin",
+        "image": "img/berlin.jpg"
+    }
+]

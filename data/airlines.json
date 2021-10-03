@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Aeromexico",
+        "image": "img/aeromexico.png"
+    },
+    {
+        "id": 2,
+        "name": "Lufthansa",
+        "image": "img/lufthansa.png"
+    },
+    {
+        "id": 3,
+        "name": "Delta",
+        "image": "img/delta.png"
+    },
+    {
+        "id": 4,
+        "name": "Iberia",
+        "image": "img/iberia.png"
+    }
+]
